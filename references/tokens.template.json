@@ -1,0 +1,19 @@
+{
+  "name": "example-direction",
+  "colors": {
+    "background": "#0A1F3C",
+    "foreground": "#F5F5F5",
+    "primary": "#1E5AA8",
+    "primary-foreground": "#FFFFFF",
+    "muted": "#2C2C2C",
+    "muted-foreground": "#B8BEC8",
+    "border": "#1C3A61",
+    "accent": "#D9B44A"
+  },
+  "radius": { "base": "12px", "sm": "8px", "lg": "16px" },
+  "fonts": {
+    "sans": "'IBM Plex Sans Thai', Inter, sans-serif",
+    "mono": "'JetBrains Mono', monospace",
+    "display": "'Oswald', sans-serif"
+  }
+}
